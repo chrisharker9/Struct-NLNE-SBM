@@ -1,5 +1,5 @@
 # Structure of Nonlinear Node Embeddings in Stochastic Block Models
-Here we provide the source code to reproduce the experimental results contained in "Structure of Nonlinear Node Embeddings in Stochastic Block Models."
+This repository provides the source code to reproduce the experimental results contained in "Structure of Nonlinear Node Embeddings in Stochastic Block Models."
 
 # Requirements
 
